@@ -1,0 +1,7 @@
+name="aman"
+print(name)
+name=123
+print(name)
+
+user_name="aman" #snake case writing
+UserName="aman" #camel case writing
