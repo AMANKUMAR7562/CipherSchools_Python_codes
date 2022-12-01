@@ -1,0 +1,3 @@
+print("aman"[0:6:2])
+print("aman"[0::3])
+print("aman"[::-2])
